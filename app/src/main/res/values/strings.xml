@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="basic_button">Basic</string>
+    <string name="advanced_button">Advanced</string>
+    <string name="about_button">About</string>
+    <string name="exit_button">Exit</string>
+
+    <string name="short_desc">This is calculator app. Having simple and advanced operations included.</string>
+    <string name="author">Made by: Patryk Orłowski</string>
+
+    <string name="buttonAC">AC</string>
+    <string name="btn0">0</string>
+    <string name="btn1">1</string>
+    <string name="btn2">2</string>
+    <string name="btn3">3</string>
+    <string name="btn4">4</string>
+    <string name="btn5">5</string>
+    <string name="btn6">6</string>
+    <string name="btn7">7</string>
+    <string name="btn8">8</string>
+    <string name="btn9">9</string>
+    <string name="btnC">C/CE</string>
+    <string name="btn_l">,</string>
+    <string name="btn_p">()</string>
+    <string name="btn_eq">=</string>
+    <string name="btn_plus_min">±</string>
+    <string name="btn_add">+</string>
+    <string name="btn_sub">-</string>
+    <string name="btn_div">/</string>
+    <string name="btn_mul">*</string>
+
+    <string name="btn_sin">sin</string>
+    <string name="btn_cos">cos</string>
+    <string name="btn_tan">tan</string>
+    <string name="btn_ln">ln</string>
+    <string name="btn_log">log</string>
+    <string name="btn_proc">%</string>
+    <string name="btn_sqrt">sqrt</string>
+    <string name="btn_x_2">x^2</string>
+    <string name="btn_x_y">x^y</string>
+
+
+
+</resources>

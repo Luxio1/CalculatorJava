@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20sp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/app_name"
+            android:textSize="100sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/basic_btn"
+            android:layout_width="400dp"
+            android:layout_height="100dp"
+            android:layout_margin="5sp"
+            android:text="@string/basic_button"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/buttonMultiply"
+            android:layout_width="400dp"
+            android:layout_height="100dp"
+            android:layout_margin="5sp"
+            android:text="@string/advanced_button"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/buttonMinus"
+            android:layout_width="400dp"
+            android:layout_height="100dp"
+            android:layout_margin="5sp"
+            android:text="@string/about_button"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/buttonExit"
+            android:layout_width="400dp"
+            android:layout_height="100dp"
+            android:layout_margin="5sp"
+            android:text="@string/exit_button"
+            android:textSize="30sp" />
+
+    </LinearLayout>
+</LinearLayout>
